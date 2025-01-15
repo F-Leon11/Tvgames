@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:'https://F-Leon11.github.io/Tvgames'
-  plugins: [react()],
   
+  plugins: [react()],
+  base:'https://F-Leon11.github.io/Tvgames'
 })
